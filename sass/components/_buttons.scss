@@ -1,0 +1,27 @@
+@use "../colors" as colors;
+@use "../variables" as variables;
+
+@mixin btn($color, $bg, $border-color) {
+  display: block;
+  text-decoration: none;
+  color: $color;
+  background-color: $bg;
+  padding: 10px 20px;
+  border: 2px solid $border-color;
+  border-radius: variables.$btn-base-radius;
+  width: fit-content;
+  
+  &:hover {
+    transform: scale(1.08);
+  }
+}
+
+@each $key, $value in colors.$colors {
+  .btn-#{$key} {
+    @include btn(white, $value, $value);
+  }
+
+  .btn-#{$key}-wbg {
+    @include btn(black, #00000000, $value);
+  }
+}
