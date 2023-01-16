@@ -1,7 +1,23 @@
-$primary: "#a2a648";
-$secondary: "#262626";
+$primary: #a2a648;
+$secondary: #262626;
 
 $colors: (
-    "primary": v.$primary,
-    "secondary": v.$secondary
+  "primary": $primary,
+  "secondary": $secondary,
 );
+
+@each $key, $value in $colors {
+  @for $i from 1 through 5 {
+    @if lighten($value, 5 * $i) != white {
+      .bg-#{$key}-lighten-#{$i} {
+        background-color: lighten($value, 5 * $i);
+      }
+    }
+
+    @if darken($value, 5 * $i) != black {
+        .bg-#{$key}-darken-#{$i} {
+          background-color: darken($value, 5 * $i);
+        }
+      }
+  }
+}
