@@ -1,6 +1,7 @@
 @use "colors";
+@use "base";
+@use "utils";
+@use "links";
 @use "components/buttons";
-
-.content {
-    padding: 10px;
-}
+@use "components/table";
+@use "grid"

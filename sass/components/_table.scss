@@ -1,0 +1,25 @@
+@use "../variables" as variables;
+
+.table {
+  border: none;
+  border-spacing: 0;
+
+  tr:nth-child(odd) {
+    border: none;
+    background-color: variables.$table-bg-primary;
+  }
+
+  tr:nth-child(even) {
+    background-color: variables.$table-bg-secondary;
+  }
+
+  th {
+    border: none;
+    padding: variables.$base-padding;
+  }
+
+  td {
+    border: none;
+    padding: variables.$base-padding;
+  }
+}

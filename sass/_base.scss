@@ -1,0 +1,17 @@
+@use "variables" as variables;
+@use "fonts";
+
+.container {
+    box-sizing: border-box;
+    padding: 0 variables.$base-padding;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    font-family: variables.$base-font;
+
+    .row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
