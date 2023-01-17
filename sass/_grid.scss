@@ -42,3 +42,32 @@ $grid-columns: 12;
     }
   }
 }
+
+//Gaps
+@for $i from 1 through 3 {
+  .gap-#{$i} {
+    margin-left: -($i * 10px);
+    margin-right: -($i * 10px);
+
+    & > * {
+      padding-left: $i * 10px;
+      padding-right: $i * 10px;
+    }
+  }
+}
+
+// Justify
+$justify: (
+  flex-start,
+  flex-end,
+  center,
+  space-between,
+  space-around,
+  space-evenly
+);
+
+@each $value in $justify {
+  .j-#{$value} {
+    justify-content: $value;
+  }
+}
