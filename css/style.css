@@ -158,6 +158,8 @@
   width: 100%;
   max-width: 1200px;
   font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
 }
 .container .row {
   display: flex;
@@ -315,8 +317,14 @@
   padding: 10px 20px;
   border: 2px solid #a2a648;
   border-radius: 12px;
-  width: fit-content;
   transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-primary:focus {
+  outline: none;
+  box-shadow: none;
 }
 .btn-primary:hover {
   transform: scale(1.08);
@@ -329,8 +337,14 @@
   padding: 10px 20px;
   border: 2px solid #a2a648;
   border-radius: 12px;
-  width: fit-content;
   transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-primary-wbg:focus {
+  outline: none;
+  box-shadow: none;
 }
 .btn-primary-wbg:hover {
   transform: scale(1.08);
@@ -343,8 +357,14 @@
   padding: 10px 20px;
   border: 2px solid #262626;
   border-radius: 12px;
-  width: fit-content;
   transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-secondary:focus {
+  outline: none;
+  box-shadow: none;
 }
 .btn-secondary:hover {
   transform: scale(1.08);
@@ -357,8 +377,14 @@
   padding: 10px 20px;
   border: 2px solid #262626;
   border-radius: 12px;
-  width: fit-content;
   transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-secondary-wbg:focus {
+  outline: none;
+  box-shadow: none;
 }
 .btn-secondary-wbg:hover {
   transform: scale(1.08);
