@@ -1,16 +1,23 @@
 @use "../variables" as variables;
+@use "../colors" as colors;
 
-.table {
+@mixin table($color) {
   border: none;
   border-spacing: 0;
+  text-align: center;
 
   tr:nth-child(odd) {
     border: none;
-    background-color: variables.$table-bg-primary;
+    background-color: lighten($color, 20%);
   }
 
   tr:nth-child(even) {
-    background-color: variables.$table-bg-secondary;
+    border: none;
+    background-color: lighten($color, 30%);
+  }
+
+  tr:hover:not(tr:first-child) {
+    background-color: lighten($color, 10%);
   }
 
   th {
@@ -21,5 +28,11 @@
   td {
     border: none;
     padding: variables.$base-padding;
+  }
+}
+
+@each $key, $value in colors.$colors {
+  .table-#{$key} {
+    @include table($value);
   }
 }
