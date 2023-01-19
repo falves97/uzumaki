@@ -2,6 +2,17 @@
 @use "variables" as variables;
 @use "fonts";
 
+@mixin flex-layout {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+@mixin flex-a-center {
+    align-items: center;
+    align-content: center;
+}
+
 .container {
     box-sizing: border-box;
     padding: 0;
@@ -13,9 +24,7 @@
     line-height: 1.4em;
 
     .row {
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
+        @include flex-layout;
     }
 }
 
