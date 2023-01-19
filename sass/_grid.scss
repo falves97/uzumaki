@@ -1,5 +1,6 @@
 @use "sass:math";
 @use "breakpoints" as bp;
+@use "variables" as variables;
 
 $grid-columns: 12;
 
@@ -46,13 +47,7 @@ $grid-columns: 12;
 //Gaps
 @for $i from 1 through 3 {
   .gap-#{$i} {
-    margin-left: -($i * 10px);
-    margin-right: -($i * 10px);
-
-    & > * {
-      padding-left: $i * 10px;
-      padding-right: $i * 10px;
-    }
+    gap: $i * variables.$base-padding;
   }
 }
 
