@@ -172,6 +172,7 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 16px;
+  line-height: 1.4em;
   vertical-align: baseline;
 }
 
@@ -204,6 +205,11 @@ table {
   border-spacing: 0;
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .container {
   box-sizing: border-box;
   padding: 0;
@@ -223,6 +229,10 @@ table {
 .img {
   height: auto;
   display: block;
+}
+
+.d-none {
+  display: none;
 }
 
 .pd-1 {

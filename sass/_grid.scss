@@ -52,14 +52,7 @@ $grid-columns: 12;
 }
 
 // Justify
-$justify: (
-  flex-start,
-  flex-end,
-  center,
-  space-between,
-  space-around,
-  space-evenly
-);
+$justify: (flex-start, flex-end, center, space-between, space-around, space-evenly);
 
 @each $value in $justify {
   .j-#{$value} {
