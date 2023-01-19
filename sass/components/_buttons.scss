@@ -32,4 +32,8 @@
   .btn-#{$key}-wbg {
     @include btn(transparent, $value);
   }
+
+  .btn-#{$key}-flat {
+    @include btn(transparent, $value);
+  }
 }

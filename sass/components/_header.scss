@@ -1,7 +1,7 @@
 @use "../base" as base;
 @use "../variables" as variables;
 
-header {
+.header {
     @include base.flex-layout;
     @include base.flex-a-center;
     padding: variables.$base-padding;
