@@ -53,6 +53,7 @@ $grid-columns: 12;
 
 // position
 $position: (flex-start, flex-end, center, space-between, space-around, space-evenly);
+$item-position: (flex-start, flex-end, center);
 
 @each $value in $position {
   .j-#{$value} {
@@ -62,5 +63,16 @@ $position: (flex-start, flex-end, center, space-between, space-around, space-eve
   //Align
   .a-#{$value} {
     align-content: $value;
+  }
+}
+
+@each $value in $item-position {
+  .j-item-#{$value} {
+    justify-items: $value;
+  }
+
+  //Align
+  .a-item-#{$value} {
+    align-items: $value;
   }
 }

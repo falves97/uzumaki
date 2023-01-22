@@ -87,6 +87,22 @@
   color: #4b4d21;
 }
 
+.bg-primary-lighten-6 {
+  background-color: #d9dbac;
+}
+
+.color-primary-lighten-6 {
+  color: #d9dbac;
+}
+
+.bg-primary-darken-6 {
+  background-color: #3a3b1a;
+}
+
+.color-primary-darken-6 {
+  color: #3a3b1a;
+}
+
 .bg-secondary {
   background-color: #262626;
 }
@@ -149,6 +165,478 @@
 
 .color-secondary-lighten-5 {
   color: #666666;
+}
+
+.bg-secondary-lighten-6 {
+  background-color: #737373;
+}
+
+.color-secondary-lighten-6 {
+  color: #737373;
+}
+
+.bg-grey {
+  background-color: #aaaaaa;
+}
+
+.color-grey {
+  color: #aaaaaa;
+}
+
+.bg-grey-lighten-1 {
+  background-color: #b7b7b7;
+}
+
+.color-grey-lighten-1 {
+  color: #b7b7b7;
+}
+
+.bg-grey-darken-1 {
+  background-color: #9d9d9d;
+}
+
+.color-grey-darken-1 {
+  color: #9d9d9d;
+}
+
+.bg-grey-lighten-2 {
+  background-color: #c4c4c4;
+}
+
+.color-grey-lighten-2 {
+  color: #c4c4c4;
+}
+
+.bg-grey-darken-2 {
+  background-color: #919191;
+}
+
+.color-grey-darken-2 {
+  color: #919191;
+}
+
+.bg-grey-lighten-3 {
+  background-color: #d0d0d0;
+}
+
+.color-grey-lighten-3 {
+  color: #d0d0d0;
+}
+
+.bg-grey-darken-3 {
+  background-color: #848484;
+}
+
+.color-grey-darken-3 {
+  color: #848484;
+}
+
+.bg-grey-lighten-4 {
+  background-color: #dddddd;
+}
+
+.color-grey-lighten-4 {
+  color: #dddddd;
+}
+
+.bg-grey-darken-4 {
+  background-color: #777777;
+}
+
+.color-grey-darken-4 {
+  color: #777777;
+}
+
+.bg-grey-lighten-5 {
+  background-color: #eaeaea;
+}
+
+.color-grey-lighten-5 {
+  color: #eaeaea;
+}
+
+.bg-grey-darken-5 {
+  background-color: #6a6a6a;
+}
+
+.color-grey-darken-5 {
+  color: #6a6a6a;
+}
+
+.bg-grey-lighten-6 {
+  background-color: #f7f7f7;
+}
+
+.color-grey-lighten-6 {
+  color: #f7f7f7;
+}
+
+.bg-grey-darken-6 {
+  background-color: #5e5e5e;
+}
+
+.color-grey-darken-6 {
+  color: #5e5e5e;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.color-white {
+  color: white;
+}
+
+.bg-white-darken-1 {
+  background-color: #f2f2f2;
+}
+
+.color-white-darken-1 {
+  color: #f2f2f2;
+}
+
+.bg-white-darken-2 {
+  background-color: #e6e6e6;
+}
+
+.color-white-darken-2 {
+  color: #e6e6e6;
+}
+
+.bg-white-darken-3 {
+  background-color: #d9d9d9;
+}
+
+.color-white-darken-3 {
+  color: #d9d9d9;
+}
+
+.bg-white-darken-4 {
+  background-color: #cccccc;
+}
+
+.color-white-darken-4 {
+  color: #cccccc;
+}
+
+.bg-white-darken-5 {
+  background-color: #bfbfbf;
+}
+
+.color-white-darken-5 {
+  color: #bfbfbf;
+}
+
+.bg-white-darken-6 {
+  background-color: #b3b3b3;
+}
+
+.color-white-darken-6 {
+  color: #b3b3b3;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.color-red {
+  color: red;
+}
+
+.bg-red-lighten-1 {
+  background-color: #ff1a1a;
+}
+
+.color-red-lighten-1 {
+  color: #ff1a1a;
+}
+
+.bg-red-darken-1 {
+  background-color: #e60000;
+}
+
+.color-red-darken-1 {
+  color: #e60000;
+}
+
+.bg-red-lighten-2 {
+  background-color: #ff3333;
+}
+
+.color-red-lighten-2 {
+  color: #ff3333;
+}
+
+.bg-red-darken-2 {
+  background-color: #cc0000;
+}
+
+.color-red-darken-2 {
+  color: #cc0000;
+}
+
+.bg-red-lighten-3 {
+  background-color: #ff4d4d;
+}
+
+.color-red-lighten-3 {
+  color: #ff4d4d;
+}
+
+.bg-red-darken-3 {
+  background-color: #b30000;
+}
+
+.color-red-darken-3 {
+  color: #b30000;
+}
+
+.bg-red-lighten-4 {
+  background-color: #ff6666;
+}
+
+.color-red-lighten-4 {
+  color: #ff6666;
+}
+
+.bg-red-darken-4 {
+  background-color: #990000;
+}
+
+.color-red-darken-4 {
+  color: #990000;
+}
+
+.bg-red-lighten-5 {
+  background-color: #ff8080;
+}
+
+.color-red-lighten-5 {
+  color: #ff8080;
+}
+
+.bg-red-darken-5 {
+  background-color: maroon;
+}
+
+.color-red-darken-5 {
+  color: maroon;
+}
+
+.bg-red-lighten-6 {
+  background-color: #ff9999;
+}
+
+.color-red-lighten-6 {
+  color: #ff9999;
+}
+
+.bg-red-darken-6 {
+  background-color: #660000;
+}
+
+.color-red-darken-6 {
+  color: #660000;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.color-green {
+  color: green;
+}
+
+.bg-green-lighten-1 {
+  background-color: #009a00;
+}
+
+.color-green-lighten-1 {
+  color: #009a00;
+}
+
+.bg-green-darken-1 {
+  background-color: #006700;
+}
+
+.color-green-darken-1 {
+  color: #006700;
+}
+
+.bg-green-lighten-2 {
+  background-color: #00b300;
+}
+
+.color-green-lighten-2 {
+  color: #00b300;
+}
+
+.bg-green-darken-2 {
+  background-color: #004d00;
+}
+
+.color-green-darken-2 {
+  color: #004d00;
+}
+
+.bg-green-lighten-3 {
+  background-color: #00cd00;
+}
+
+.color-green-lighten-3 {
+  color: #00cd00;
+}
+
+.bg-green-darken-3 {
+  background-color: #003400;
+}
+
+.color-green-darken-3 {
+  color: #003400;
+}
+
+.bg-green-lighten-4 {
+  background-color: #00e600;
+}
+
+.color-green-lighten-4 {
+  color: #00e600;
+}
+
+.bg-green-darken-4 {
+  background-color: #001a00;
+}
+
+.color-green-darken-4 {
+  color: #001a00;
+}
+
+.bg-green-lighten-5 {
+  background-color: #01ff01;
+}
+
+.color-green-lighten-5 {
+  color: #01ff01;
+}
+
+.bg-green-darken-5 {
+  background-color: #000100;
+}
+
+.color-green-darken-5 {
+  color: #000100;
+}
+
+.bg-green-lighten-6 {
+  background-color: #1aff1a;
+}
+
+.color-green-lighten-6 {
+  color: #1aff1a;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.color-yellow {
+  color: yellow;
+}
+
+.bg-yellow-lighten-1 {
+  background-color: #ffff1a;
+}
+
+.color-yellow-lighten-1 {
+  color: #ffff1a;
+}
+
+.bg-yellow-darken-1 {
+  background-color: #e6e600;
+}
+
+.color-yellow-darken-1 {
+  color: #e6e600;
+}
+
+.bg-yellow-lighten-2 {
+  background-color: #ffff33;
+}
+
+.color-yellow-lighten-2 {
+  color: #ffff33;
+}
+
+.bg-yellow-darken-2 {
+  background-color: #cccc00;
+}
+
+.color-yellow-darken-2 {
+  color: #cccc00;
+}
+
+.bg-yellow-lighten-3 {
+  background-color: #ffff4d;
+}
+
+.color-yellow-lighten-3 {
+  color: #ffff4d;
+}
+
+.bg-yellow-darken-3 {
+  background-color: #b3b300;
+}
+
+.color-yellow-darken-3 {
+  color: #b3b300;
+}
+
+.bg-yellow-lighten-4 {
+  background-color: #ffff66;
+}
+
+.color-yellow-lighten-4 {
+  color: #ffff66;
+}
+
+.bg-yellow-darken-4 {
+  background-color: #999900;
+}
+
+.color-yellow-darken-4 {
+  color: #999900;
+}
+
+.bg-yellow-lighten-5 {
+  background-color: #ffff80;
+}
+
+.color-yellow-lighten-5 {
+  color: #ffff80;
+}
+
+.bg-yellow-darken-5 {
+  background-color: olive;
+}
+
+.color-yellow-darken-5 {
+  color: olive;
+}
+
+.bg-yellow-lighten-6 {
+  background-color: #ffff99;
+}
+
+.color-yellow-lighten-6 {
+  color: #ffff99;
+}
+
+.bg-yellow-darken-6 {
+  background-color: #666600;
+}
+
+.color-yellow-darken-6 {
+  color: #666600;
 }
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -236,15 +724,18 @@ a {
   font-size: 16px;
   line-height: 1.4em;
 }
-.container .row {
+
+.row {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  position: relative;
 }
 
 .img {
   height: auto;
   display: block;
+  border-radius: 12px;
 }
 
 .d-none {
@@ -411,7 +902,127 @@ a {
   margin-top: 30px;
 }
 
-.link-under-secondary, .link-secondary, .link-under-primary, .link-primary {
+.pd-4 {
+  padding: 40px;
+}
+
+.pb-4 {
+  padding-bottom: 40px;
+}
+
+.pl-4 {
+  padding-left: 40px;
+}
+
+.pr-4 {
+  padding-right: 40px;
+}
+
+.pt-4 {
+  padding-top: 40px;
+}
+
+.md-4 {
+  margin: 40px;
+}
+
+.mb-4 {
+  margin-bottom: 40px;
+}
+
+.ml-4 {
+  margin-left: 40px;
+}
+
+.mr-4 {
+  margin-right: 40px;
+}
+
+.mt-4 {
+  margin-top: 40px;
+}
+
+.pd-5 {
+  padding: 50px;
+}
+
+.pb-5 {
+  padding-bottom: 50px;
+}
+
+.pl-5 {
+  padding-left: 50px;
+}
+
+.pr-5 {
+  padding-right: 50px;
+}
+
+.pt-5 {
+  padding-top: 50px;
+}
+
+.md-5 {
+  margin: 50px;
+}
+
+.mb-5 {
+  margin-bottom: 50px;
+}
+
+.ml-5 {
+  margin-left: 50px;
+}
+
+.mr-5 {
+  margin-right: 50px;
+}
+
+.mt-5 {
+  margin-top: 50px;
+}
+
+.pd-6 {
+  padding: 60px;
+}
+
+.pb-6 {
+  padding-bottom: 60px;
+}
+
+.pl-6 {
+  padding-left: 60px;
+}
+
+.pr-6 {
+  padding-right: 60px;
+}
+
+.pt-6 {
+  padding-top: 60px;
+}
+
+.md-6 {
+  margin: 60px;
+}
+
+.mb-6 {
+  margin-bottom: 60px;
+}
+
+.ml-6 {
+  margin-left: 60px;
+}
+
+.mr-6 {
+  margin-right: 60px;
+}
+
+.mt-6 {
+  margin-top: 60px;
+}
+
+.link-under-yellow, .link-yellow, .link-under-green, .link-green, .link-under-red, .link-red, .link-under-white, .link-white, .link-under-grey, .link-grey, .link-under-secondary, .link-secondary, .link-under-primary, .link-primary {
   font-size: 1rem;
   background-color: transparent;
   border: none;
@@ -445,6 +1056,81 @@ a {
 }
 .link-under-secondary:hover {
   color: #262626;
+}
+
+.link-grey {
+  text-decoration: none;
+  color: #aaaaaa;
+}
+.link-grey:hover {
+  text-decoration: underline;
+}
+
+.link-under-grey {
+  text-decoration: underline;
+}
+.link-under-grey:hover {
+  color: #aaaaaa;
+}
+
+.link-white {
+  text-decoration: none;
+  color: white;
+}
+.link-white:hover {
+  text-decoration: underline;
+}
+
+.link-under-white {
+  text-decoration: underline;
+}
+.link-under-white:hover {
+  color: white;
+}
+
+.link-red {
+  text-decoration: none;
+  color: red;
+}
+.link-red:hover {
+  text-decoration: underline;
+}
+
+.link-under-red {
+  text-decoration: underline;
+}
+.link-under-red:hover {
+  color: red;
+}
+
+.link-green {
+  text-decoration: none;
+  color: green;
+}
+.link-green:hover {
+  text-decoration: underline;
+}
+
+.link-under-green {
+  text-decoration: underline;
+}
+.link-under-green:hover {
+  color: green;
+}
+
+.link-yellow {
+  text-decoration: none;
+  color: yellow;
+}
+.link-yellow:hover {
+  text-decoration: underline;
+}
+
+.link-under-yellow {
+  text-decoration: underline;
+}
+.link-under-yellow:hover {
+  color: yellow;
 }
 
 @media (min-width: 0) {
@@ -697,6 +1383,30 @@ a {
   align-content: space-evenly;
 }
 
+.j-item-flex-start {
+  justify-items: flex-start;
+}
+
+.a-item-flex-start {
+  align-items: flex-start;
+}
+
+.j-item-flex-end {
+  justify-items: flex-end;
+}
+
+.a-item-flex-end {
+  align-items: flex-end;
+}
+
+.j-item-center {
+  justify-items: center;
+}
+
+.a-item-center {
+  align-items: center;
+}
+
 .btn-primary {
   display: block;
   text-decoration: none;
@@ -823,6 +1533,321 @@ a {
   transform: scale(1.08);
 }
 
+.btn-grey {
+  display: block;
+  text-decoration: none;
+  background-color: #aaaaaa;
+  padding: 10px 20px;
+  border: 2px solid #aaaaaa;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-grey:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-grey:hover {
+  transform: scale(1.08);
+}
+
+.btn-grey-wbg {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid #aaaaaa;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-grey-wbg:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-grey-wbg:hover {
+  transform: scale(1.08);
+}
+
+.btn-grey-flat {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid #aaaaaa;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-grey-flat:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-grey-flat:hover {
+  transform: scale(1.08);
+}
+
+.btn-white {
+  display: block;
+  text-decoration: none;
+  background-color: white;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-white:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-white:hover {
+  transform: scale(1.08);
+}
+
+.btn-white-wbg {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-white-wbg:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-white-wbg:hover {
+  transform: scale(1.08);
+}
+
+.btn-white-flat {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-white-flat:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-white-flat:hover {
+  transform: scale(1.08);
+}
+
+.btn-red {
+  display: block;
+  text-decoration: none;
+  background-color: red;
+  padding: 10px 20px;
+  border: 2px solid red;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-red:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-red:hover {
+  transform: scale(1.08);
+}
+
+.btn-red-wbg {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid red;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-red-wbg:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-red-wbg:hover {
+  transform: scale(1.08);
+}
+
+.btn-red-flat {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid red;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-red-flat:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-red-flat:hover {
+  transform: scale(1.08);
+}
+
+.btn-green {
+  display: block;
+  text-decoration: none;
+  background-color: green;
+  padding: 10px 20px;
+  border: 2px solid green;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-green:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-green:hover {
+  transform: scale(1.08);
+}
+
+.btn-green-wbg {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid green;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-green-wbg:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-green-wbg:hover {
+  transform: scale(1.08);
+}
+
+.btn-green-flat {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid green;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-green-flat:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-green-flat:hover {
+  transform: scale(1.08);
+}
+
+.btn-yellow {
+  display: block;
+  text-decoration: none;
+  background-color: yellow;
+  padding: 10px 20px;
+  border: 2px solid yellow;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-yellow:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-yellow:hover {
+  transform: scale(1.08);
+}
+
+.btn-yellow-wbg {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid yellow;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-yellow-wbg:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-yellow-wbg:hover {
+  transform: scale(1.08);
+}
+
+.btn-yellow-flat {
+  display: block;
+  text-decoration: none;
+  background-color: transparent;
+  padding: 10px 20px;
+  border: 2px solid yellow;
+  border-radius: 12px;
+  width: fit-content;
+  transition: all 0.3s ease;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  line-height: 1.4em;
+}
+.btn-yellow-flat:focus {
+  outline: none;
+  box-shadow: none;
+}
+.btn-yellow-flat:hover {
+  transform: scale(1.08);
+}
+
 .table-primary {
   border: none;
   border-spacing: 0;
@@ -885,10 +1910,166 @@ a {
   padding: 10px;
 }
 
+.table-grey {
+  border: none;
+  border-spacing: 0;
+  text-align: center;
+}
+.table-grey tr {
+  transition: all 0.3s ease;
+}
+.table-grey tr:nth-child(odd) {
+  border: none;
+  background-color: #f7f7f7;
+}
+.table-grey tr:nth-child(even) {
+  border: none;
+  background-color: white;
+}
+.table-grey tr:first-child {
+  background-color: #c4c4c4;
+}
+.table-grey tr:hover:not(tr:first-child) {
+  background-color: #dddddd;
+}
+.table-grey th {
+  border: none;
+  padding: 10px;
+}
+.table-grey td {
+  border: none;
+  padding: 10px;
+}
+
+.table-white {
+  border: none;
+  border-spacing: 0;
+  text-align: center;
+}
+.table-white tr {
+  transition: all 0.3s ease;
+}
+.table-white tr:nth-child(odd) {
+  border: none;
+  background-color: white;
+}
+.table-white tr:nth-child(even) {
+  border: none;
+  background-color: white;
+}
+.table-white tr:first-child {
+  background-color: white;
+}
+.table-white tr:hover:not(tr:first-child) {
+  background-color: white;
+}
+.table-white th {
+  border: none;
+  padding: 10px;
+}
+.table-white td {
+  border: none;
+  padding: 10px;
+}
+
+.table-red {
+  border: none;
+  border-spacing: 0;
+  text-align: center;
+}
+.table-red tr {
+  transition: all 0.3s ease;
+}
+.table-red tr:nth-child(odd) {
+  border: none;
+  background-color: #ff9999;
+}
+.table-red tr:nth-child(even) {
+  border: none;
+  background-color: #ffcccc;
+}
+.table-red tr:first-child {
+  background-color: #ff3333;
+}
+.table-red tr:hover:not(tr:first-child) {
+  background-color: #ff6666;
+}
+.table-red th {
+  border: none;
+  padding: 10px;
+}
+.table-red td {
+  border: none;
+  padding: 10px;
+}
+
+.table-green {
+  border: none;
+  border-spacing: 0;
+  text-align: center;
+}
+.table-green tr {
+  transition: all 0.3s ease;
+}
+.table-green tr:nth-child(odd) {
+  border: none;
+  background-color: #1aff1a;
+}
+.table-green tr:nth-child(even) {
+  border: none;
+  background-color: #4dff4d;
+}
+.table-green tr:first-child {
+  background-color: #00b300;
+}
+.table-green tr:hover:not(tr:first-child) {
+  background-color: #00e600;
+}
+.table-green th {
+  border: none;
+  padding: 10px;
+}
+.table-green td {
+  border: none;
+  padding: 10px;
+}
+
+.table-yellow {
+  border: none;
+  border-spacing: 0;
+  text-align: center;
+}
+.table-yellow tr {
+  transition: all 0.3s ease;
+}
+.table-yellow tr:nth-child(odd) {
+  border: none;
+  background-color: #ffff99;
+}
+.table-yellow tr:nth-child(even) {
+  border: none;
+  background-color: #ffffcc;
+}
+.table-yellow tr:first-child {
+  background-color: #ffff33;
+}
+.table-yellow tr:hover:not(tr:first-child) {
+  background-color: #ffff66;
+}
+.table-yellow th {
+  border: none;
+  padding: 10px;
+}
+.table-yellow td {
+  border: none;
+  padding: 10px;
+}
+
 .header {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  position: relative;
   align-items: center;
   align-content: center;
   padding: 10px;
@@ -897,6 +2078,7 @@ a {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  position: relative;
   align-items: center;
   align-content: center;
   padding: 10px 0;
@@ -907,6 +2089,7 @@ a {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  position: relative;
   align-items: center;
   align-content: center;
 }
@@ -915,6 +2098,7 @@ a {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  position: relative;
   align-items: center;
   align-content: center;
   width: 100%;
@@ -923,6 +2107,7 @@ a {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  position: relative;
   align-items: center;
   align-content: center;
   padding: 10px 0;
@@ -941,6 +2126,7 @@ a {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  position: relative;
   align-items: center;
   align-content: center;
   width: 100%;
@@ -949,6 +2135,7 @@ a {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  position: relative;
   align-items: center;
   align-content: center;
   padding: 10px 0;
@@ -961,6 +2148,146 @@ a {
 }
 .nav-menu-secondary ul li a:hover {
   color: #262626;
+}
+
+.nav-menu-grey {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+}
+.nav-menu-grey ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  padding: 10px 0;
+  width: 100%;
+  gap: 20px;
+  justify-content: center;
+}
+.nav-menu-grey ul li a {
+  transition: all 0.3s ease;
+}
+.nav-menu-grey ul li a:hover {
+  color: #aaaaaa;
+}
+
+.nav-menu-white {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+}
+.nav-menu-white ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  padding: 10px 0;
+  width: 100%;
+  gap: 20px;
+  justify-content: center;
+}
+.nav-menu-white ul li a {
+  transition: all 0.3s ease;
+}
+.nav-menu-white ul li a:hover {
+  color: white;
+}
+
+.nav-menu-red {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+}
+.nav-menu-red ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  padding: 10px 0;
+  width: 100%;
+  gap: 20px;
+  justify-content: center;
+}
+.nav-menu-red ul li a {
+  transition: all 0.3s ease;
+}
+.nav-menu-red ul li a:hover {
+  color: red;
+}
+
+.nav-menu-green {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+}
+.nav-menu-green ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  padding: 10px 0;
+  width: 100%;
+  gap: 20px;
+  justify-content: center;
+}
+.nav-menu-green ul li a {
+  transition: all 0.3s ease;
+}
+.nav-menu-green ul li a:hover {
+  color: green;
+}
+
+.nav-menu-yellow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  width: 100%;
+}
+.nav-menu-yellow ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  align-items: center;
+  align-content: center;
+  padding: 10px 0;
+  width: 100%;
+  gap: 20px;
+  justify-content: center;
+}
+.nav-menu-yellow ul li a {
+  transition: all 0.3s ease;
+}
+.nav-menu-yellow ul li a:hover {
+  color: yellow;
 }
 
 .spacer {
@@ -999,6 +2326,116 @@ a {
   outline: none;
   box-shadow: none;
   border-color: #262626;
+}
+
+.input-grey {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  border: none;
+  border-bottom: 2px solid #ddd;
+  background-color: #efefef;
+  padding: 0 10px;
+  line-height: 2em;
+  height: 2em;
+}
+.input-grey:focus {
+  outline: none;
+  box-shadow: none;
+  border-color: #aaaaaa;
+}
+
+.input-white {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  border: none;
+  border-bottom: 2px solid #ddd;
+  background-color: #efefef;
+  padding: 0 10px;
+  line-height: 2em;
+  height: 2em;
+}
+.input-white:focus {
+  outline: none;
+  box-shadow: none;
+  border-color: white;
+}
+
+.input-red {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  border: none;
+  border-bottom: 2px solid #ddd;
+  background-color: #efefef;
+  padding: 0 10px;
+  line-height: 2em;
+  height: 2em;
+}
+.input-red:focus {
+  outline: none;
+  box-shadow: none;
+  border-color: red;
+}
+
+.input-green {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  border: none;
+  border-bottom: 2px solid #ddd;
+  background-color: #efefef;
+  padding: 0 10px;
+  line-height: 2em;
+  height: 2em;
+}
+.input-green:focus {
+  outline: none;
+  box-shadow: none;
+  border-color: green;
+}
+
+.input-yellow {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  border: none;
+  border-bottom: 2px solid #ddd;
+  background-color: #efefef;
+  padding: 0 10px;
+  line-height: 2em;
+  height: 2em;
+}
+.input-yellow:focus {
+  outline: none;
+  box-shadow: none;
+  border-color: yellow;
+}
+
+.accommodations__iframe {
+  height: 600px;
+}
+
+.modal {
+  display: none;
+  flex-wrap: wrap;
+  padding: 60px;
+  position: absolute;
+  z-index: 20;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+.modal .modal__close {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  width: 100%;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+
+#header__logged {
+  display: none;
 }
 
 /*# sourceMappingURL=style.css.map */

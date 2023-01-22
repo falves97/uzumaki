@@ -1,9 +1,19 @@
 $primary: #a2a648;
 $secondary: #262626;
+$grey: #aaaaaa;
+$white: white;
+$red: red;
+$green: green;
+$yellow: yellow;
 
 $colors: (
-  "primary": $primary,
-  "secondary": $secondary,
+        "primary": $primary,
+        "secondary": $secondary,
+        "grey": $grey,
+        "white": white,
+        "red": $red,
+        "green": $green,
+        "yellow": $yellow
 );
 
 @each $key, $value in $colors {
@@ -15,7 +25,7 @@ $colors: (
     color: $value;
   }
 
-  @for $i from 1 through 5 {
+  @for $i from 1 through 6 {
     @if lighten($value, 5 * $i) != white {
       .bg-#{$key}-lighten-#{$i} {
         background-color: lighten($value, 5 * $i);
